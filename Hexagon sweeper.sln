@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hexagon sweeper", "Hexagon sweeper\Hexagon sweeper.vcxproj", "{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Debug|x64.ActiveCfg = Debug|x64
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Debug|x64.Build.0 = Debug|x64
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Debug|x86.Build.0 = Debug|Win32
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Release|x64.ActiveCfg = Release|x64
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Release|x64.Build.0 = Release|x64
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Release|x86.ActiveCfg = Release|Win32
+		{FAAABE89-4ED8-44C9-AF1F-923F4353F78C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D87AC09E-9D07-49E5-A35D-14BEFF7804C0}
+	EndGlobalSection
+EndGlobal
